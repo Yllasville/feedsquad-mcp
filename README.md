@@ -1,3 +1,5 @@
+> **Archived (2026-10-22).** This repository is no longer maintained. The FeedSquad plugin for Claude and ChatGPT lives at [Feedsquad/feedsquad-plugin](https://github.com/Feedsquad/feedsquad-plugin). Connector docs: [feedsquad.com/docs/mcp](https://feedsquad.com/docs/mcp). The MCP server runs at `https://feedsquad.com/api/mcp`.
+
 # FeedSquad MCP Server
 
 **A content calendar your AI can drive.** Connect FeedSquad from Claude, ChatGPT, Cursor, or any MCP client and your assistant can draft posts, build multi-week campaigns, find publishing slots that respect per-platform cadence rules, and publish to **LinkedIn, X, and Threads** through official APIs.
